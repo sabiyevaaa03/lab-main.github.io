@@ -1,0 +1,31 @@
+.Main{
+  position:absolute;
+  top: 120px;
+  left: -120px;
+  width: 1240px;
+  height: 877px;
+
+}
+.main-item{
+  text-align: center;
+  margin-left: 500px;
+  color: rgb(9, 135, 192);
+ 
+}
+.button1{
+  width: 70px;
+  height: 23px;
+  margin-left: 10px;
+  background: rgb(9, 135, 192);
+  color: white;
+  cursor: pointer;
+}
+
+.ph{
+  margin-left: 380px;
+  margin-top: 10px;
+}
+.ph img{
+  width: 1000px;
+  height: 400px;
+}
